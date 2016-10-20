@@ -1,4 +1,4 @@
 # hello-world
-hHi Ann!
+Hi Ann!
 
 Just another repository
